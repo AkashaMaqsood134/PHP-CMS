@@ -60,19 +60,6 @@ Go to Tables to manage users, roles, permissions, and locations.
 
 Use the Add, Edit, and Delete buttons to perform CRUD operations.
 
-## Project Structure
-PHP-CMS/
-│
-├── include/
-│   └── db.php          # Database connection
-├── tables/             # CRUD pages for users, roles, permissions, etc.
-├── vendor/             # CSS and JS libraries
-├── css/                # Custom styles
-├── js/                 # Custom scripts
-├── index.php           # Dashboard
-├── tables.php          # Main tables management page
-└── README.md
-
 ## Contributing
 Contributions are welcome!
 Please create a pull request for bug fixes, enhancements, or new features.
