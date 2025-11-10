@@ -25,7 +25,7 @@ if (isset($_POST['update'])) {
             WHERE id = $id";
 
     if ($conn->query($sql)) {
-        header("Location: ../tables.php?success=Permission mapping updated successfully");
+        header("Location: ../tables.php?success=Permission updated successfully");
         exit;
     } else {
         echo "Error: " . $conn->error;

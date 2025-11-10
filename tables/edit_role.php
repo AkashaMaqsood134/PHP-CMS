@@ -45,7 +45,7 @@ if (isset($_POST['update'])) {
                 </select>
             </div>
             <button type="submit" name="update" class="btn btn-primary">Update</button>
-            <a href="tables.php" class="btn btn-secondary">Back</a>
+            <a href="../tables.php" class="btn btn-secondary">Back</a>
         </form>
     </div>
 </body>

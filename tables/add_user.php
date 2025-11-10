@@ -80,7 +80,6 @@ $states = $conn->query("SELECT state_id, state_name FROM states");
                 <?php endwhile; ?>
             </select>
         </div>
-
         <div class="form-group mb-3">
             <label>City</label>
             <select name="city_id" class="form-control" required>
