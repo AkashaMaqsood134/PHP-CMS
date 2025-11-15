@@ -51,11 +51,74 @@
               <!-- Divider -->
             <hr class="sidebar-divider my-0">
 
+           
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+
             <!-- Nav Item - Tables -->
-            <li class="nav-item">
-                <a class="nav-link" href="tables.php">
+            <li class="nav-item active">
+                <a class="nav-link" href="users.php">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>Tables</span></a>
+                    <span>Users</span></a>
+            </li>
+
+              <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Nav Item - Tables -->
+            <li class="nav-item active">
+                <a class="nav-link" href="roles.php">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Roles</span></a>
+            </li>
+
+              <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Nav Item - Tables -->
+            <li class="nav-item active">
+                <a class="nav-link" href="permissions.php">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Permissions</span></a>
+            </li>
+
+              <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Nav Item - Tables -->
+            <li class="nav-item active">
+                <a class="nav-link" href="role_has_permission.php">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Permissions to Roles</span></a>
+            </li>
+             <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Nav Item - Tables -->
+            <li class="nav-item active">
+                <a class="nav-link" href="countries.php">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Countries</span></a>
+            </li>
+
+              <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Nav Item - Tables -->
+            <li class="nav-item active">
+                <a class="nav-link" href="cities.php">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Cities</span></a>
+            </li>
+
+              <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Nav Item - Tables -->
+            <li class="nav-item active">
+                <a class="nav-link" href="states.php">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>States</span></a>
             </li>
 
             <!-- Divider -->
